@@ -1,0 +1,2 @@
+# Nextflow
+Bioinformatics Nextflow scripts
