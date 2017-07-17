@@ -1,2 +1,2 @@
 # Nextflow
-Bioinformatics Nextflow scripts
+Bioinformatics Nextflow pipelines
