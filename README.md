@@ -1,5 +1,5 @@
 # Nextflow
-####Bioinformatics pipelines using Nextflow
+### Bioinformatics pipelines using Nextflow
 
 ## Install Nextflow
 ### Required at least Java 7 version to be installed
