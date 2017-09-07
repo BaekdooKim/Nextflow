@@ -41,7 +41,7 @@ input_paired_2 = file(params.input_paired_2)
 cuffmergeWrapper = params.cm_wrapper
 annotationFile = file(params.input_gtf)
 
-mate_std_dev = params.mate_std_dev
+mate_std_dev = params.mate_inner_dist
 anchor_length = params.anchor_length
 segment_length = params.segment_length
 
